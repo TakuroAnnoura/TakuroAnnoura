@@ -26,10 +26,10 @@
 * 閲覧専用の公開デモ
 
 公開デモ：
-ここにPythonAnywhereのURLを入れる
+https://TakuroAnnoura.pythonanywhere.com/
 
 GitHubリポジトリ：
-ここにリポジトリURLを入れる
+https://github.com/TakuroAnnoura/payment-notice-management-app
 
 ## Skills
 
