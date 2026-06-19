@@ -1,16 +1,61 @@
-## Hi there 👋
+# はじめまして
 
-<!--
-**TakuroAnnoura/TakuroAnnoura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+職業訓練校でデータ分析・AIエンジニアリングを学びながら、Python / Django を中心にWebアプリ開発・業務改善ツールの制作に取り組んでいます。
 
-Here are some ideas to get you started:
+これまでの業務では、本人確認・決済・請求関連のオペレーション現場で、SVとして業務設計、進捗管理、品質管理、マニュアル整備、RPAによる自動化などに携わってきました。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+現在は、現場で発生する手作業・確認漏れ・重複処理などの課題を、PythonやWebアプリケーションを使って改善できるエンジニアを目指しています。
+
+## Portfolio
+
+### 支払通知書作成・進捗管理アプリ
+
+営業担当者から受け取った支払対象者一覧CSVを取り込み、支払通知書の作成、確認、差戻し、完了までを管理するDjangoアプリです。
+
+前職で経験した「手作業による転記ミス」「重複作成」「確認状況の属人化」といった課題をもとに、業務フローを整理して設計・実装しました。
+
+主な機能：
+
+* CSV取込
+* 入力エラー検知
+* 重複候補検知
+* 支払通知書Excel自動生成
+* 作成・確認・完了ステータス管理
+* 作業ログ記録
+* CSVテンプレートダウンロード
+* 閲覧専用の公開デモ
+
+公開デモ：
+ここにPythonAnywhereのURLを入れる
+
+GitHubリポジトリ：
+ここにリポジトリURLを入れる
+
+## Skills
+
+* Python
+* Django
+* HTML / CSS
+* SQLite
+* openpyxl
+* pandas
+* Git / GitHub
+* 業務フロー整理
+* KPI・進捗管理
+* マニュアル作成
+* RPA / 業務自動化の実務経験
+
+## Currently Learning
+
+* DjangoによるWebアプリ開発
+* データ分析
+* AI活用・業務自動化
+* React
+* G検定・DS検定に向けた学習
+
+## Career Interest
+
+将来的には、データ分析やAIを活用した業務改善、スマート農業領域でのデータ活用に関わりたいと考えています。
+
+まずはPython / Django / データ分析の実務経験を積み、現場課題を理解したうえで、実際に使われる改善ツールを作れる人材を目指しています。
+
